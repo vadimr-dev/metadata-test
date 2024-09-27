@@ -1,4 +1,5 @@
 {
-    "name": "TestCoin"
-    "symbol": "TC"
+    "name": "TestCoin",
+    "symbol": "TC",
+    "description": "Only test"
 }
